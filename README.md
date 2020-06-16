@@ -1,4 +1,4 @@
-# RPM-D_PUCCIO
+# RPM3D_PUCCIO
 Prototype of the wearable device
  This folder contain two files:
  - Arduino file ".ino": contains the code that you have to upload to your Arduino. The code reads the MPU6050 (Accelerometter+Gyroscope+Magnetometter) and process the raw data to obtain pitch and roll angles that are sended by Serial.  The file is located inside GetData_v5
